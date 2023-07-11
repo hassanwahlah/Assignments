@@ -1,0 +1,7 @@
+C:\Users\4835\source\repos\Bank Management\Bank Management\bin\Debug\Bank Management.exe.config
+C:\Users\4835\source\repos\Bank Management\Bank Management\bin\Debug\Bank Management.exe
+C:\Users\4835\source\repos\Bank Management\Bank Management\bin\Debug\Bank Management.pdb
+C:\Users\4835\source\repos\Bank Management\Bank Management\obj\Debug\Bank Management.csproj.AssemblyReference.cache
+C:\Users\4835\source\repos\Bank Management\Bank Management\obj\Debug\Bank Management.csproj.CoreCompileInputs.cache
+C:\Users\4835\source\repos\Bank Management\Bank Management\obj\Debug\Bank Management.exe
+C:\Users\4835\source\repos\Bank Management\Bank Management\obj\Debug\Bank Management.pdb
